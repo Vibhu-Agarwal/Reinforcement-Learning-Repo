@@ -10,4 +10,4 @@ Any good resources for Reinforcement Learning are most welcome :)
 
 ## Reinforcement Learning
 - [How to build an AI to play Dino Run](https://medium.com/acing-ai/how-i-build-an-ai-to-play-dino-run-e37f37bdf153) (article)
-- [Deep Learning basics and Reinforcement Learning - Deep Mind (Video Lecture Series)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+- [Deep Learning basics and Reinforcement Learning - Deep Mind](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) (Video Lecture Series)
