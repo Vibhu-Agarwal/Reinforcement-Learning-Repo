@@ -4,9 +4,10 @@ My first hands at Reinforcement Learning
 Any good resources for Reinforcement Learning are most welcome :)
 
 ## Neural Networks
-- [What *is* neural networks!?](https://youtu.be/aircAruvnKk) (video)
-- [Gradient descent, how neural networks learn](https://youtu.be/IHZwWFHWa-w) (video)
-- [Backpropogation and Stochastic Gradient Descent [Concepts]](https://youtu.be/Ilg3gGewQ5U) (video)
+- [What *is* neural networks!?](https://youtu.be/aircAruvnKk) (video)  
+  [Gradient descent, how neural networks learn](https://youtu.be/IHZwWFHWa-w) (video)  
+  [Backpropogation and Stochastic Gradient Descent [Concepts]](https://youtu.be/Ilg3gGewQ5U) (video)
+- [Convolution Networks (Intuitive article) - Adam Geitgey](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
 - [Neural Networks and Deep Learning -](http://neuralnetworksanddeeplearning.com/) [Michael Nielsen](https://github.com/mnielsen) (book)  
   [Code Samples](https://github.com/mnielsen/neural-networks-and-deep-learning) for this book
 
